@@ -1,5 +1,16 @@
 # Braincube CSR client for braincube
 
+## [0.1.0] - 26-07-2019
+### Feature
+- updated dependencies
+- better CI to allow a proper `npm pack`
+### Fix
+- Windows build is now working again (broken with 0.0.9)
+
+## [0.0.9] - 24-07-2019
+### Feature
+- The domain is now a text field : with no implied .mybraincube.com
+
 ## [0.0.8] - 27-06-2019
 ### Feature
 - Add comments for open source code

@@ -1,0 +1,12 @@
+.idea
+node_modules
+*.pem
+*.pub
+*.csr
+*.cert
+*.onboard
+coverage
+*.tgz
+build-cjs/
+build-mjs/
+.bin/*

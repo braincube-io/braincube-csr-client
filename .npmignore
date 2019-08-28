@@ -1,0 +1,7 @@
+# Ignore
+*
+**/
+!build-cjs/*
+!build-mjs/*
+!package.json
+!*.md
