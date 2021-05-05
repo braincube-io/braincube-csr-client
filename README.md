@@ -54,6 +54,7 @@ For building the binary for the supported os platforms type
 
   Commands:
 
-    onboard|o      Onboard onto a Data Repository
-    check|c        Check connection to a Data Repository
+    onboard|o  ${optionnal_private_key_pem_path}     Onboard onto a Data Repository with the possibility 
+                                                     to import your own RSA privateKey (4096 bits recommended)
+    check|c                                          Check connection to a Data Repository
 
