@@ -1,6 +1,6 @@
 {
   "name": "@braincube/braincube-csr-client",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "Csr client for braincube transfert onboarding",
   "main": "lib/index",
   "scripts": {
