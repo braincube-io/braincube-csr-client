@@ -20,7 +20,7 @@
   "dependencies": {
     "commander": "^2.20.0",
     "inquirer": "^6.5.0",
-    "node-forge": "^0.8.5",
+    "node-forge": "^0.10.0",
     "opn": "^6.0.0"
   },
   "devDependencies": {
